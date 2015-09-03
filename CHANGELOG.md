@@ -1,6 +1,12 @@
 ---------------------------------
 STSdb 4.0 version history:
 ---------------------------------
+ver. 4.0.8 (2015-09-03)
+ - changed: SortedSetExtensions now generates the same expressions for .NET and Mono. (thanks to corminlu from GitHub)
+ - changed: DecimalExtensions now generates the same expressions for .NET and Mono.
+ - improved: FindNext, FindAfter, FindBefore, FindPrev methods of SortedSet.
+
+ The Mono Project has adopted the .NET implementations for some of their libraries.
 
 ver. 4.0.7 (2015-01-13)
  - bug fixed: SortedSetExtension.ConstructFromSortedArray finally works under Mono
