@@ -29,6 +29,6 @@ More about STSdb and BigData: http://stssoft.com/products/stsdb-4-0/bigdata/.
 ## Simplicity
 STSdb 4.0 has the best designed API in the database world. Simplicity is beauty.
 
-Get started in fust a few minutes: http://docs.stsdb.com/display/stsdb404/Quick+Start.
+Get started in just a few minutes: http://docs.stsdb.com/display/stsdb404/Quick+Start.
 ***
 More about STSdb and our technologies: http://stssoft.com/
