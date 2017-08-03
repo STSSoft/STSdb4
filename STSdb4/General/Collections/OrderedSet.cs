@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Collections;
 using System.Diagnostics;
 using STSdb4.General.Extensions;
 using STSdb4.General.Comparers;
-using System.IO;
-using STSdb4.General.Persist;
-using System.Threading.Tasks;
 
 namespace STSdb4.General.Collections
 {

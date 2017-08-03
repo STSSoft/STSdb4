@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using STSdb4.General.Extensions;
 
 namespace STSdb4.General.Comparers
 {

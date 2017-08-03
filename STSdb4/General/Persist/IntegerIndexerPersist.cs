@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
 using STSdb4.General.Compression;
 
 namespace STSdb4.General.Persist

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using STSdb4.General.Compression;
 using STSdb4.General.Mathematics;

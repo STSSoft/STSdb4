@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Collections;
 using System.IO;
 using System.Diagnostics;
-using STSdb4.Database;
 
 namespace STSdb4.WaterfallTree
 {

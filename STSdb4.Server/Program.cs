@@ -1,15 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.ServiceProcess;
-using System.Text;
-using System.Threading.Tasks;
-using System.Threading;
-using STSdb4.Database;
-using STSdb4.Data;
-using STSdb4.Database.Operations;
-using STSdb4.WaterfallTree;
-using System.IO;
+﻿using System.ServiceProcess;
 using System.Configuration;
 using STSdb4.Remote;
 

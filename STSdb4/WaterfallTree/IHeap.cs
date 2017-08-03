@@ -1,10 +1,4 @@
-﻿using STSdb4.Storage;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace STSdb4.WaterfallTree
+﻿namespace STSdb4.WaterfallTree
 {
     /// <summary>
     /// Gives opportunity to write and read blocks referenced by logical keys (handles). The heap implementations must provide atomic commit of all writes (all or nothing) and must be thread-safe.

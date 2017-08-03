@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Collections.Concurrent;
 using System.IO;
 using System.Diagnostics;
 using STSdb4.General.Threading;
 using STSdb4.Data;
-using STSdb4.Database;
 using STSdb4.General.Collections;
 
 namespace STSdb4.WaterfallTree
