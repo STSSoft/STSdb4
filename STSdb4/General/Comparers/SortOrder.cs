@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace STSdb4.General.Comparers
+﻿namespace STSdb4.General.Comparers
 {
     public enum SortOrder : byte
     {

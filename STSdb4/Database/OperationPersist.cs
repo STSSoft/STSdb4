@@ -1,14 +1,4 @@
-﻿using STSdb4.Data;
-using STSdb4.Database.Operations;
-using STSdb4.General.Persist;
-using STSdb4.WaterfallTree;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-
-namespace STSdb4.Database
+﻿namespace STSdb4.Database
 {
     //public class OperationPersist : IPersist<IOperation>
     //{
@@ -59,14 +49,14 @@ namespace STSdb4.Database
     //    private void WriteDeleteOperation(BinaryWriter writer, IOperation operation)
     //    {
     //        DeleteOperation opr = (DeleteOperation)operation;
-            
+
     //        KeyPersist.Write(writer, operation.FromKey);
     //    }
 
     //    private void WriteDeleteRangeOperation(BinaryWriter writer, IOperation operation)
     //    {
     //        DeleteRangeOperation opr = (DeleteRangeOperation)operation;
-            
+
     //        KeyPersist.Write(writer, operation.FromKey);
     //        KeyPersist.Write(writer, operation.ToKey);
     //    }

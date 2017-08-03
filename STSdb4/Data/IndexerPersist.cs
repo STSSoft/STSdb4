@@ -5,7 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
-using System.Text;
 using STSdb4.General.Extensions;
 using System.Threading.Tasks;
 using STSdb4.General.Compression;

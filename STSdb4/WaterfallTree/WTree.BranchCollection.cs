@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Threading;
 using STSdb4.General.Compression;
-using STSdb4.General.Collections;
 using STSdb4.General.Comparers;
-using STSdb4.General.Extensions;
 
 namespace STSdb4.WaterfallTree
 {
